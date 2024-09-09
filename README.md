@@ -13,3 +13,7 @@ python3 model.py
 
 # License
 MIT
+
+# Todo
+
+- [ ] Implement flash attention from the native official repo, I couldn't because the docs are nowhere to be found and understood 
